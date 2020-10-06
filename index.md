@@ -1,12 +1,12 @@
 
-### FatemehVakili 
+### zahrahaghverdi
 ---<img src="pic.jpeg">
 ### Skill Highlights
 +
 +
-+ Web Designing (HTML, CSS) + Programming Languages (Python, C++,C) + Network Security + Photoshop ### Education
++ Web Designing (HTML, CSS) + Programming Languages (html,css,javascript,jguery, C++,C) + Network Security ### Education
 +
-+ Diploma: Fadak High School
++ Diploma: shahre ghods High School
 - 2015 + Associate Degree: Accounting
 -2016, Islamic Azad University
 + Bachelor of science: Computer Engineering
